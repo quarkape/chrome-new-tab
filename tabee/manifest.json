@@ -1,13 +1,13 @@
 {
 	"manifest_version": 3,
-	"name": "tabeeee",
+	"name": "tabeee",
 	"version": "2.0",
-	"description": "修改谷歌浏览器打开新标签页的样式，解决如果不用google作为新标签页的话，页面中间会出现一些历史记录磁贴的问题",
+	"description": "浏览器新标签页替代方案，新标签页将只有一个图片~",
 	"author": "quarkape",
 	"icons": {
-		"16": "img/logo.png",
-		"48": "img/logo.png",
-		"128": "img/logo.png"
+		"16": "img/logo.jpg",
+		"48": "img/logo.jpg",
+		"128": "img/logo.jpg"
 	},
 	"chrome_url_overrides": {"newtab": "new.html"},
 	"homepage_url": "https://github.com/quarkape/chrome-new-tab"
